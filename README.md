@@ -3,7 +3,7 @@
 <h3 align="center">A salvadorean developer</h3>
 
 
-<div align="center">Livin' my life to the fullest I can ✌</div>
+<div align="center" style="margin-bottom:10px">Livin' my life to the fullest I can ✌</div>
 
 <div align="center">
 Stats for nerds here:
