@@ -6,6 +6,8 @@
 <div align="center">Livin' my life to the fullest I can ✌
 <br>
 
+<p>Stats for nerds here:</p>
+
 [![Stats for nerds here:](https://github-readme-stats.vercel.app/api?username=rubper)](https://github.com/rubper/)
 </div>
 - 💻 Currently working at <a href="https://fstudios.dev/">FStudios</a>
