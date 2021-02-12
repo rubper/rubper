@@ -15,6 +15,9 @@ Stats for nerds here:
 </div>
 <div align="center">
 💻 Currently working at <a href="https://fstudios.dev/">FStudios</a>
+✍ Learning about PWAs right now!
+😄 Quick fun fact: an electric guitar makes it's sound thanks to electromagnetism. 
+  Seems like those physics classes in high school weren't a waste after all, huh.
 </div>
 
 <!--
@@ -100,6 +103,15 @@ Stats for nerds here:
   <p align="left">
     <a href="https://fb.com/fstudiosv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="fstudiosv" height="30"        width="40" />FStudioSV</a>
   </p>
+  
+  
+
+<h3 align="left">Contact me:</h3>
+<p align="left">
+📧 <a href="mailto:rub.per96@gmail.com" target="blank">rub.per96@gmail.com</a>
+<!--<a href="https://instagram.com/freduart.00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="freduart.00" height="30" width="40" />Instagram</a>
+</p>
+-->
   
   
 <h3 align="left">FStudios' languages and tools:</h3>
