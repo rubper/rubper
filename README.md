@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">Livin' my life to the fullest I can ✌
-
+<br>
 
 [![Stats for nerds here:](https://github-readme-stats.vercel.app/api?username=rubper)](https://github.com/rubper/)
 </div>
