@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 <h3 align="center">A salvadorean developer</h3>
 
 
-Livin' my life to the fullest I can ✌
+<div align="center">Livin' my life to the fullest I can ✌
 
 
-[![Stats for nerds here:](https://github-readme-stats.vercel.app/api?username=rubper)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Stats for nerds here:](https://github-readme-stats.vercel.app/api?username=rubper)](https://github.com/rubper/)
+</div>
 - 💻 Currently working at [FStudios](https://fstudios.dev)
 
 <!--
@@ -106,7 +106,7 @@ Livin' my life to the fullest I can ✌
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="git" width="40" height="40"/> 
   </a> 
   <a href="https://www.bizagi.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/rubper/rubper/main/assets/hmfile_hash_c4d4cc7f.png" alt="git" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/rubper/rubper/main/assets/BizagiLogo.png" alt="git" width="40" height="40"/> 
   </a> 
   <a href="https://photoshop.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="git" width="40" height="40"/> 
