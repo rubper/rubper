@@ -23,7 +23,7 @@ Stats for nerds here:
 😄 Quick fun fact: an electric guitar makes it's sound thanks to electromagnetism. 
 </div>
 <div align="center">
-  Those physics classes in high school weren't a waste after all, huh.
+  <h7>Those physics classes in high school weren't a waste after all, huh.</h7>
 </div>
 
 <!--
