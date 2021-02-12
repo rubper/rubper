@@ -9,8 +9,8 @@
 <p>Stats for nerds here:</p>
 
 [![Stats for nerds here:](https://github-readme-stats.vercel.app/api?username=rubper)](https://github.com/rubper/)
+💻 Currently working at <a href="https://fstudios.dev/">FStudios</a>
 </div>
-- 💻 Currently working at <a href="https://fstudios.dev/">FStudios</a>
 
 <!--
 <h3 align="left">Connect with me:</h3>
