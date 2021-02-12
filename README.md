@@ -106,6 +106,9 @@ Livin' my life to the fullest I can ✌
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="git" width="40" height="40"/> 
   </a> 
   <a href="https://www.bizagi.com/" target="_blank"> 
-    <img src="" alt="git" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/rubper/rubper/main/assets/hmfile_hash_c4d4cc7f.png" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://photoshop.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="git" width="40" height="40"/> 
   </a> 
 </p>
