@@ -7,8 +7,11 @@
 
 <div align="center">
 Stats for nerds here:
-</div>
+  
+  
 [![Stats for nerds here:](https://github-readme-stats.vercel.app/api?username=rubper)](https://github.com/rubper/)
+  
+</div>
 <div align="center">
 💻 Currently working at <a href="https://fstudios.dev/">FStudios</a>
 </div>
