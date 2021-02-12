@@ -15,9 +15,15 @@ Stats for nerds here:
 </div>
 <div align="center">
 💻 Currently working at <a href="https://fstudios.dev/">FStudios</a>
+</div>
+<div align="center">
 ✍ Learning about PWAs right now!
+</div>
+<div align="center">
 😄 Quick fun fact: an electric guitar makes it's sound thanks to electromagnetism. 
-  Seems like those physics classes in high school weren't a waste after all, huh.
+</div>
+<div align="center">
+  Those physics classes in high school weren't a waste after all, huh.
 </div>
 
 <!--
