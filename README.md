@@ -19,9 +19,6 @@ Stats for nerds here:
 <div align="center">
 ✍ Learning about PWAs and NodeJS right now!
 </div>
-<div align="center">
-🎯 Aiming to be a fullstack developer~
-</div>
 
 
 <h3 align="left">Contact me:</h3>
