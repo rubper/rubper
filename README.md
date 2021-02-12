@@ -19,9 +19,6 @@ Stats for nerds here:
 <div align="center">
 ✍ Learning about PWAs right now!
 </div>
-<div align="center">
-😄 Quick fun fact: an electric guitar makes it's sound thanks to electromagnetism. 
-</div>
 
 
 <h3 align="left">Contact me:</h3>
