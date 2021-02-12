@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 [![Stats for nerds here:](https://github-readme-stats.vercel.app/api?username=rubper)](https://github.com/rubper/)
 </div>
-- 💻 Currently working at [FStudios](https://fstudios.dev)
+- 💻 Currently working at [FStudios](fstudios)
 
 <!--
 <h3 align="left">Connect with me:</h3>
