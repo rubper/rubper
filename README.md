@@ -1,3 +1,4 @@
+<p align="center"> 
 <!-- Apartado personal -->
 <h1 align="center">Hi 👋, I'm Rubén 👀</h1>
 <h3 align="center">A salvadorean developer</h3>
@@ -83,6 +84,7 @@ Stats for nerds here:
   <a href="https://photoshop.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="git" width="40" height="40"/> 
   </a> 
+</p>
 </p>
 
 <!--Apartado de FSTudios -->
