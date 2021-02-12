@@ -87,6 +87,7 @@ Stats for nerds here:
 </p>
 </p>
 
+<hr>
 <!--Apartado de FSTudios -->
 
 <p align="center"> 
