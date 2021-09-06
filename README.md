@@ -17,7 +17,7 @@ Stats for nerds here:
 💻 Currently collaborating with <a href="https://fstudios.dev/">FStudios</a>
 </div>
 <div align="center">
-✍ Learning about PWAs and NodeJS right now!
+✍ Still learning about frontend development!
 </div>
 
 
