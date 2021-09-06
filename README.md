@@ -89,7 +89,7 @@ Stats for nerds here:
     <img src="https://raw.githubusercontent.com/rubper/rubper/main/assets/BizagiLogo.png" alt="git" width="40" height="40"/> 
   </a> 
   <a href="https://photoshop.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="git" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="git" width="40" height="40"/> 
   </a> 
 </p>
 </p>
