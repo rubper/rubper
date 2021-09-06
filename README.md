@@ -30,6 +30,7 @@ Stats for nerds here:
 
 <h3 align="left">My languages, tools and skills ;)</h3>
 <p align="left"> 
+  <h4> Languages </h4>
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="csharp" width="40" height="40"/> 
   </a>
@@ -48,6 +49,8 @@ Stats for nerds here:
   <a href="https://www.java.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
+  <br>
+  <h4> DBMS </h4>
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
   </a> 
@@ -57,6 +60,8 @@ Stats for nerds here:
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a> 
+  <br>
+  <h4> Frameworks </h4>
   <a href="https://laravel.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
   </a>
@@ -72,6 +77,8 @@ Stats for nerds here:
   <a href="https://vuejs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>
   </a> 
+  <br>
+  <h4> Tools </h4>
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
