@@ -94,8 +94,8 @@ Stats for nerds here:
 </p>
 </p>
 
-<hr>
 <!--Apartado de FSTudios 
+<hr>
 
 <p align="center"> 
   <img src="https://github.com/Freduart/Freduart/blob/main/assets/logoFStudiosNoBg02.png" width="200" height="200"> 
