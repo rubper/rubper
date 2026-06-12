@@ -1,73 +1,165 @@
-<p align="center"> 
-<!-- Apartado personal -->
-<h1 align="center">Hi 👋, I'm Rubén 👀</h1>
-<h3 align="center">A salvadorean developer</h3>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,100:2563EB&text=Rubén%20Pérez&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Frontend%20Specialist%20%7C%20UI%2FUX%20Enthusiast&descAlignY=58"/>
 
-<div align="center" style="margin-bottom:10px">Livin' my life to the fullest I can ✌</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1500&center=true&vCenter=true&width=1000&lines=Software+Engineer;Frontend-heavy+Developer;Angular+%7C+NestJS+%7C+TypeScript;Passionate+about+UI%2FUX+and+Product+Design;Always+learning+something+new)](https://git.io/typing-svg)
+
+<br>
+
+<a href="https://linkedin.com/in/rubper">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rubper">
+<img src="https://img.shields.io/github/followers/rubper?style=for-the-badge&logo=github"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=rubper&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 👋 About Me
+
+I'm a Software Engineer from El Salvador 🇸🇻 focused on building scalable applications and creating intuitive user experiences.
+
+My background is frontend-heavy, but I also work with backend technologies, APIs, and application architecture.
+
+What excites me most isn't just building software — it's understanding why great products work.
+
+---
+
+# 🚀 What I Bring
+
+```txt
+✓ Frontend Engineering
+✓ User Experience Thinking
+✓ Product-Oriented Development
+✓ Design Systems
+✓ Scalable Architectures
+✓ API Development
+✓ Performance Optimization
+✓ Continuous Learning
+```
+
+---
+
+# 🛠 Tech Stack
 
 <div align="center">
-💻 Currently studying
+
+<img src="https://skillicons.dev/icons?i=angular,ts,js,nodejs,nestjs,express,html,css,git,github,vscode,figma"/>
+
 </div>
+
+---
+
+# 🎯 Current Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### Engineering
+
+- Angular Architecture
+- NestJS APIs
+- Performance Optimization
+- Scalable Applications
+
+</td>
+
+<td width="50%">
+
+### Design
+
+- UX Psychology
+- Design Systems
+- Interface Architecture
+- Human-Computer Interaction
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
 <div align="center">
-✍ Still learning about frontend development!
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rubper&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubper&layout=compact&hide_border=true"/>
+
 </div>
 
+<br>
 
-<h3 align="left">Contact me:</h3>
-<p align="left">
-📧 <a href="mailto:rub.per96@gmail.com" target="blank">rub.per96@gmail.com</a>
+<div align="center">
 
-<h3 align="left">My languages, tools and skills ;)</h3>
-<p align="left"> 
-  <h4> Languages </h4>
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="csharp" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="csharp" width="40" height="40"/> 
-  </a>
-  <a href="https://html.spec.whatwg.org/multipage/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <br>
-  <h4> DBMS </h4>
-    <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="oracle" width="40" height="40"/> 
-  </a> 
-  <br>
-  <h4> Frameworks </h4>
-    <a href="https://angular.dev" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
-  </a> 
-    <a href="https://nestjs.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
-  </a> 
-    <a href="https://expressjs.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  </a> 
-  <a href="https://vuejs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a> 
-  <br>
-  <h4> Tools </h4>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.bizagi.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/rubper/rubper/main/assets/BizagiLogo.png" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://photoshop.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="git" width="40" height="40"/> 
-  </a> 
-</p>
-</p>
+<img src="https://streak-stats.demolab.com?user=rubper&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rubper&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌟 Featured Expertise
+
+### 🎨 UI/UX
+
+Building interfaces that feel intuitive, accessible, and visually engaging.
+
+### ⚙️ Frontend Engineering
+
+Creating maintainable Angular applications with scalable architecture patterns.
+
+### 🔌 Backend Development
+
+Designing APIs and backend services with NestJS and Express.
+
+### 🧠 Product Thinking
+
+Connecting business goals, user needs, and technical implementation.
+
+---
+
+# 📚 Currently Exploring
+
+- Advanced UI/UX Theory
+- Interface Psychology
+- Product Strategy
+- AI-Assisted Development
+- Modern Web Architectures
+
+---
+
+# 🤝 Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/rubper">
+<img src="https://img.shields.io/badge/LinkedIn-Rubén%20Pérez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building products people enjoy using.
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,100:2563EB"/>
